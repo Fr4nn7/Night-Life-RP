@@ -1,7 +1,7 @@
 # Night-Life-RP
 Night Life RP Project Repository: Enhanced FX-Server Customization with Cfx.re Framework and ESX Dependencies. Hosted on Windows Server 21H1. Please note that FiveM/Steam Keys are not provided. Developed by frann_7 and dirxzzy.
 
-# Disclaimes: 
+# Disclaimers: 
 
 The RAID storage of the server is directly uploaded from the VPS. It's crucial not to modify the CFG. If you intend to use any resource from here, remember to provide proper credits to the authors.
 If you're running the server on LocalHost, you need to update the API Keys. Otherwise, the machine's subsystem won't initiate. You can obtain the keys on the official FiveM webpage.
