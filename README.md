@@ -4,6 +4,7 @@ Night Life RP Project Repository, Developed by frann_7 and dirxzzy.
 # Disclaimers: 
 
 The RAID storage of the server is directly uploaded from the VPS. It's crucial not to modify the CFG. If you intend to use any resource from here, remember to provide proper credits to the authors.
+
 If you're running the server on LocalHost, you need to update the API Keys. Otherwise, the machine's subsystem won't initiate. You can obtain the keys on the official FiveM webpage.
 
 Initiating the database with the SQL is extremely important before starting the machine for the first time. Initialization is done by uploading the SQL file to Apache or Heidi. Failing to do so will result in automatic creation of relevant files, causing translation and interpretation errors.
