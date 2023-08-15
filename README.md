@@ -1,2 +1,3 @@
 # Night-Life-RP
-Night Life RP Project Repository: Custom FX-Server using Cfx.re Framework, ESX Dependecies needed, Hosted in Windows Server 21H1, FiveM/Steam Keys are not included, made by: frann_7, dirxzzy
+Night Life RP Project Repository: Enhanced FX-Server Customization with Cfx.re Framework and ESX Dependencies. Hosted on Windows Server 21H1. Please note that FiveM/Steam Keys are not provided. Developed by frann_7 and dirxzzy.
+
